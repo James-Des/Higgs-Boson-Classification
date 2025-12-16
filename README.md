@@ -23,4 +23,4 @@ This project uses the [Higgs Boson dataset (HIGGS)](https://archive.ics.uci.edu/
 ## Run
 ```bash
 pip install -r requirements.txt
-jupyter notebook
+jupyter notebook notebooks/HIGGS_BOSON_PYTORCH.ipynb
