@@ -4,7 +4,7 @@ Binary classification of simulated LHC collision events: **Higgs signal vs backg
 
 ## What’s inside
 - Data preprocessing + train/val/test split
-- PyTorch model training (MLP)
+- PyTorch model training
 - Evaluation: ROC–AUC, ROC curve, confusion matrix
 - Baseline comparison (e.g., logistic regression)
 
