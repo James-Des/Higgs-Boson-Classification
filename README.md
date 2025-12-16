@@ -1,6 +1,6 @@
 # Higgs Boson Classification (PyTorch)
 
-Binary classification predicting the existence of the Higgs Boson particle against background noise using a PyTorch neural net, evaluated with ROC–AUC and compared to classical ML baselines.
+Binary classification of simulated LHC collision events: **Higgs signal vs background**, using a PyTorch neural network, evaluated with ROC–AUC and compared to classical ML baselines.
 
 ## What’s inside
 - Data preprocessing + train/val/test split
