@@ -13,7 +13,7 @@ Binary classification predicting the existence of the Higgs Boson particle again
 - Baseline (LogReg): ROC–AUC = 0.68
 
 ## Dataset
-This project uses the Higgs Boson dataset (HIGGS). The dataset is not included in this repo due to size.
+This project uses the [Higgs Boson dataset (HIGGS)](https://archive.ics.uci.edu/dataset/280/higgs). The dataset is not included in this repo due to size.
 
 **To run the notebook:**
 1. Download the dataset file as `HIGGS.csv.gz`.
