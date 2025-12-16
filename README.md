@@ -12,6 +12,14 @@ Binary classification predicting the existence of the Higgs Boson particle again
 - PyTorch MLP: ROC–AUC = 0.80
 - Baseline (LogReg): ROC–AUC = 0.68
 
+## Dataset
+This project uses the Higgs Boson dataset (HIGGS). The dataset is not included in this repo due to size.
+
+**To run the notebook:**
+1. Download the dataset file as `HIGGS.csv.gz`.
+2. Place it in the **repo root** (same folder level as `README.md`).
+3. The notebook loads the first 1,000,000 rows by default.
+
 ## Run
 ```bash
 pip install -r requirements.txt
